@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.199.250:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <url>http://43.204.108.99:9980/purushoth/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.199.250:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <url>http://43.204.108.99:9980/purushoth/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
