@@ -99,14 +99,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.204.108.99:9980/purushoth/repository/wallmart-release/</url>
+	      <name>Mithun Technologies snapshot Nexus Repository</name>
+	      <urlhttp://13.234.75.242:9980/purushoth/repository/wallmart-snapshot/></url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.204.108.99:9980/purushoth/repository/wallmart-snapshot/</url>
+	      <name>Mithun Technologies release Nexus Repository </name>
+	      <url>http://13.234.75.242:9980/purushoth/repository/wallmart-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
